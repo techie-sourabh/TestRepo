@@ -5,5 +5,4 @@ void main()
 	int x=100;
 	printf("Hello %s %s",name,lastName);
 	getch();
-
 }
