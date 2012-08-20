@@ -4,5 +4,6 @@ void main()
 	char lastName[]="ghorpade";
 	int x=100;
 	printf("Hello %s %s",name,lastName);
+	getch();
 
 }
